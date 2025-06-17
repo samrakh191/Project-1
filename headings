@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>lesson 2</title>
+    </head>
+    <body>
+        <h1>heading 1</h1>
+        <h2>heading 2</h2>
+        <h3>heading 3</h3>
+        <h4>heading 4</h4>
+        <h5>heading 5</h5>
+        <h6>heading 6</h6>
+
+        <p>this is simple paragraph</p>
+        <p><b>this is bold text</b></p>
+        <p><strong>this is strong text</strong></p>
+        <p><i>this is italic text</i></p>
+        <p><em>this is a em text</em></p>
+        <p><mark>this is marked text</mark></p>
+        <p><small>this is small text</small></p>
+        <P><del>this is deleted text</del></P>
+        <P>H<sub>2</sub>O</P>
+        <P>2<suP>5</suP></P>
+        <p><u>this is underlined</u></p>
+        <P><blockquote>this is block quoted</blockquote></P>
+        <q>Unity,Faith,Discipline</q>
+         </body>
+</html>
